@@ -15,7 +15,7 @@ export default function page() {
 				<Image src={logo} alt="HackRPI Logo" width={100} height={100} />
 				<h1 className="text-4xl font-bold mb-4">🚧 HackRPI Site Under Development! 🚧</h1>
 				<p className="text-xl mb-2">
-					Attention all code warriors and caffeine aficionados! Our hackathon hub is currently in the middle of an epic
+					Attention all code people and caffeine aficionados! Our hackathon hub is currently in the middle of an epic
 					upgrade. We&apos;re coding faster than a team of over-caffeinated developers at 3 AM.
 				</p>
 				<ul className="list-disc w-full list-inside mb-2">
